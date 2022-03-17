@@ -1,6 +1,6 @@
 # Array methods
 
-# Source
+## Source
 
 [Mozilla](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Global_Objects/Array)
 
